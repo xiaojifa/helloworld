@@ -1,0 +1,19 @@
+.thumbnail{
+    width: 85px;
+}
+
+.my-navbar1 {
+    background-color: cadetblue;
+}
+
+.my-navbar2 {
+    background-color: hsla(0,0%,98%,.8);
+}
+
+.center-button {
+    display: block;
+    margin: 0 auto;
+}
+
+
+
